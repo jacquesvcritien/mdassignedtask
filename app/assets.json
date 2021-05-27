@@ -1,0 +1,552 @@
+[
+    {
+        "ISIN": "US03743Q1085",
+        "Industry": "30910020",
+        "ClosePrice": 20.18,
+        "Currency": "USD",
+        "Exchange": "NAS",
+        "LastPrice": 20.18,
+        "LegalName": "APA Corp",
+        "Sector": "309",
+        "Type": "equity"
+    },
+    {
+        "ISIN": "US03743Q1085",
+        "Industry": "30910020",
+        "ClosePrice": 20.18,
+        "Currency": "USD",
+        "Exchange": "NAS",
+        "LastPrice": 20.18,
+        "LegalName": "APA Corp",
+        "Sector": "309",
+        "Type": "equity"
+    },
+    {
+        "ISIN": "GG00BWWYMV85",
+        "Industry": "10310010",
+        "ClosePrice": 2.07,
+        "Currency": "GBP",
+        "Exchange": "LON",
+        "LastPrice": 2.072708,
+        "LegalName": "Apax Global Alpha Ltd",
+        "Sector": "103",
+        "Type": "equity"
+    },
+    {
+        "ISIN": "GG00BWWYMV85",
+        "Industry": "10310010",
+        "ClosePrice": 2.07,
+        "Currency": "GBP",
+        "Exchange": "LON",
+        "LastPrice": 2.072708,
+        "LegalName": "Apax Global Alpha Ltd",
+        "Sector": "103",
+        "Type": "equity"
+    },
+    {
+        "ISIN": "LU0569974404",
+        "Industry": "10160020",
+        "ClosePrice": 42.79,
+        "Currency": "EUR",
+        "Exchange": "AMS",
+        "LastPrice": 43.82,
+        "LegalName": "Aperam SA",
+        "Sector": "101",
+        "Type": "equity"
+    },
+    {
+        "ISIN": "LU0569974404",
+        "Industry": "10160020",
+        "ClosePrice": 42.79,
+        "Currency": "EUR",
+        "Exchange": "AMS",
+        "LastPrice": 43.82,
+        "LegalName": "Aperam SA",
+        "Sector": "101",
+        "Type": "equity"
+    },
+    {
+        "ISIN": "US03762U1051",
+        "Industry": "10420070",
+        "ClosePrice": 15.08,
+        "Currency": "USD",
+        "Exchange": "NYS",
+        "LastPrice": 15.08,
+        "LegalName": "Apollo Commercial Real Estate Finance Inc",
+        "Sector": "104",
+        "Type": "equity"
+    },
+    {
+        "ISIN": "US03762U1051",
+        "Industry": "10420070",
+        "ClosePrice": 15.08,
+        "Currency": "USD",
+        "Exchange": "NYS",
+        "LastPrice": 15.08,
+        "LegalName": "Apollo Commercial Real Estate Finance Inc",
+        "Sector": "104",
+        "Type": "equity"
+    },
+    {
+        "ISIN": "US03768E1055",
+        "Industry": "10310010",
+        "ClosePrice": 55,
+        "Currency": "USD",
+        "Exchange": "NYS",
+        "LastPrice": 55,
+        "LegalName": "Apollo Global Management Inc",
+        "Sector": "103",
+        "Type": "equity"
+    },
+    {
+        "ISIN": "US03768E1055",
+        "Industry": "10310010",
+        "ClosePrice": 55,
+        "Currency": "USD",
+        "Exchange": "NYS",
+        "LastPrice": 55,
+        "LegalName": "Apollo Global Management Inc",
+        "Sector": "103",
+        "Type": "equity"
+    },
+    {
+        "ISIN": "US03761U5020",
+        "Industry": "10310010",
+        "ClosePrice": 14.41,
+        "Currency": "USD",
+        "Exchange": "NAS",
+        "LastPrice": 14.41,
+        "LegalName": "Apollo Investment Corp",
+        "Sector": "103",
+        "Type": "equity"
+    },
+    {
+        "ISIN": "US03761U5020",
+        "Industry": "10310010",
+        "ClosePrice": 14.41,
+        "Currency": "USD",
+        "Exchange": "NAS",
+        "LastPrice": 14.41,
+        "LegalName": "Apollo Investment Corp",
+        "Sector": "103",
+        "Type": "equity"
+    },
+    {
+        "ISIN": "US03782L1017",
+        "Industry": "31110030",
+        "ClosePrice": 106.28,
+        "Currency": "USD",
+        "Exchange": "NAS",
+        "LastPrice": 106.28,
+        "LegalName": "Appian Corp",
+        "Sector": "311",
+        "Type": "equity"
+    },
+    {
+        "ISIN": "US03782L1017",
+        "Industry": "31110030",
+        "ClosePrice": 106.28,
+        "Currency": "USD",
+        "Exchange": "NAS",
+        "LastPrice": 106.28,
+        "LegalName": "Appian Corp",
+        "Sector": "311",
+        "Type": "equity"
+    },
+    {
+        "ISIN": "US0378331005",
+        "Industry": "31120030",
+        "ClosePrice": 127.85,
+        "Currency": "USD",
+        "Exchange": "NAS",
+        "LastPrice": 127.85,
+        "LegalName": "Apple Inc",
+        "Sector": "311",
+        "Type": "equity"
+    },
+    {
+        "ISIN": "US0378331005",
+        "Industry": "31120030",
+        "ClosePrice": 127.85,
+        "Currency": "USD",
+        "Exchange": "NAS",
+        "LastPrice": 127.85,
+        "LegalName": "Apple Inc",
+        "Sector": "311",
+        "Type": "equity"
+    },
+    {
+        "ISIN": "US0378331005",
+        "Industry": "31120030",
+        "Currency": "EUR",
+        "Exchange": "ETR",
+        "LastPrice": 107.58,
+        "LegalName": "Apple Inc",
+        "Sector": "311",
+        "Type": "equity"
+    },
+    {
+        "ISIN": "US03815U3005",
+        "Industry": "20660010",
+        "ClosePrice": 6.03,
+        "Currency": "USD",
+        "Exchange": "NAS",
+        "LastPrice": 6.03,
+        "LegalName": "Applied DNA Sciences Inc",
+        "Sector": "206",
+        "Type": "equity"
+    },
+    {
+        "ISIN": "US03820C1053",
+        "Industry": "31060010",
+        "ClosePrice": 101.19,
+        "Currency": "USD",
+        "Exchange": "NYS",
+        "LastPrice": 101.19,
+        "LegalName": "Applied Industrial Technologies Inc",
+        "Sector": "310",
+        "Type": "equity"
+    },
+    {
+        "ISIN": "US0382221051",
+        "Industry": "31130010",
+        "ClosePrice": 128.72,
+        "Currency": "USD",
+        "Exchange": "NAS",
+        "LastPrice": 128.72,
+        "LegalName": "Applied Materials Inc",
+        "Sector": "311",
+        "Type": "equity"
+    },
+    {
+        "ISIN": "US0382221051",
+        "Industry": "31130010",
+        "ClosePrice": 128.72,
+        "Currency": "USD",
+        "Exchange": "NAS",
+        "LastPrice": 128.72,
+        "LegalName": "Applied Materials Inc",
+        "Sector": "311",
+        "Type": "equity"
+    },
+    {
+        "ISIN": "JE00B783TY65",
+        "Industry": "10200030",
+        "ClosePrice": 139.74,
+        "Currency": "USD",
+        "Exchange": "NYS",
+        "LastPrice": 139.74,
+        "LegalName": "Aptiv PLC",
+        "Sector": "102",
+        "Type": "equity"
+    },
+    {
+        "ISIN": "JE00B783TY65",
+        "Industry": "10200030",
+        "ClosePrice": 139.74,
+        "Currency": "USD",
+        "Exchange": "NYS",
+        "LastPrice": 139.74,
+        "LegalName": "Aptiv PLC",
+        "Sector": "102",
+        "Type": "equity"
+    },
+    {
+        "ISIN": "US03837J1016",
+        "Industry": "31090010",
+        "ClosePrice": 2.83,
+        "Currency": "USD",
+        "Exchange": "NAS",
+        "LastPrice": 2.83,
+        "LegalName": "Aqua Metals Inc",
+        "Sector": "310",
+        "Type": "equity"
+    },
+    {
+        "ISIN": "US03842K2006",
+        "Industry": "20525020",
+        "ClosePrice": 5.29,
+        "Currency": "USD",
+        "Exchange": "NAS",
+        "LastPrice": 5.29,
+        "LegalName": "AquaBounty Technologies Inc",
+        "Sector": "205",
+        "Type": "equity"
+    },
+    {
+        "ISIN": "US03842K2006",
+        "Industry": "20525020",
+        "ClosePrice": 5.29,
+        "Currency": "USD",
+        "Exchange": "NAS",
+        "LastPrice": 5.29,
+        "LegalName": "AquaBounty Technologies Inc",
+        "Sector": "205",
+        "Type": "equity"
+    },
+    {
+        "ISIN": "CA03879J1003",
+        "Industry": "20610010",
+        "ClosePrice": 3.33,
+        "Currency": "USD",
+        "Exchange": "NAS",
+        "LastPrice": 3.33,
+        "LegalName": "Arbutus Biopharma Corp",
+        "Sector": "206",
+        "Type": "equity"
+    },
+    {
+        "ISIN": "CA03879J1003",
+        "Industry": "20610010",
+        "ClosePrice": 3.33,
+        "Currency": "USD",
+        "Exchange": "NAS",
+        "LastPrice": 3.33,
+        "LegalName": "Arbutus Biopharma Corp",
+        "Sector": "206",
+        "Type": "equity"
+    },
+    {
+        "ISIN": "NL0006237562",
+        "Industry": "31040010",
+        "ClosePrice": 34.06,
+        "Currency": "EUR",
+        "Exchange": "AMS",
+        "LastPrice": 35.04,
+        "LegalName": "Arcadis NV",
+        "Sector": "310",
+        "Type": "equity"
+    },
+    {
+        "ISIN": "NL0006237562",
+        "Industry": "31040010",
+        "ClosePrice": 34.06,
+        "Currency": "EUR",
+        "Exchange": "AMS",
+        "LastPrice": 35.04,
+        "LegalName": "Arcadis NV",
+        "Sector": "310",
+        "Type": "equity"
+    },
+    {
+        "ISIN": "DE000A2E4XE4",
+        "ClosePrice": 94,
+        "Currency": "EUR",
+        "Domicile": "germany",
+        "LastPrice": 93,
+        "LegalName": "ETERNA MODE HOLDING GMBH 7.75 03/06/2024",
+        "Type": "bond"
+    },
+    {
+        "ISIN": "XS1706202592",
+        "Industry": "servicesTravel",
+        "ClosePrice": 70.08,
+        "Currency": "EUR",
+        "Domicile": "france",
+        "LastPrice": 70.08,
+        "LegalName": "EUROPCAR MOBILITY GROUP 4.125 15/11/2024",
+        "Type": "bond"
+    },
+    {
+        "ISIN": "XS0659566169",
+        "Industry": "banks",
+        "ClosePrice": 99.53,
+        "Currency": "AUD",
+        "LastPrice": 99.51,
+        "LegalName": "EUROPEAN BANK FOR RECONSTRUCTION & DEVELOPMENT 0.5 01/09/2023",
+        "Type": "bond"
+    },
+    {
+        "ISIN": "XS0659566169",
+        "Industry": "banks",
+        "ClosePrice": 99.53,
+        "Currency": "AUD",
+        "LastPrice": 99.51,
+        "LegalName": "EUROPEAN BANK FOR RECONSTRUCTION & DEVELOPMENT 0.5 01/09/2023",
+        "Type": "bond"
+    },
+    {
+        "ISIN": "XS1555164299",
+        "Industry": "banks",
+        "ClosePrice": 100.9,
+        "Currency": "RUB",
+        "LastPrice": 100.53,
+        "LegalName": "EUROPEAN BANK FOR RECONSTRUCTION & DEVELOPMENT 6 24/07/2023",
+        "Type": "bond"
+    },
+    {
+        "ISIN": "EU000A1G0AD0",
+        "ClosePrice": 103.235,
+        "Currency": "EUR",
+        "Domicile": "luxembourg",
+        "LastPrice": 103.14,
+        "LegalName": "EUROPEAN FINANCIAL STABILITY FACILITY 3.5 04/02/2022",
+        "Type": "bond"
+    },
+    {
+        "ISIN": "EU000A1G0AD0",
+        "ClosePrice": 103.235,
+        "Currency": "EUR",
+        "Domicile": "luxembourg",
+        "LastPrice": 103.14,
+        "LegalName": "EUROPEAN FINANCIAL STABILITY FACILITY 3.5 04/02/2022",
+        "Type": "bond"
+    },
+    {
+        "ISIN": "XS0643664914",
+        "Industry": "banks",
+        "ClosePrice": 100.15,
+        "Currency": "AUD",
+        "LastPrice": 100.14,
+        "LegalName": "EUROPEAN INVESTMENT BANK 0.5 21/07/2023",
+        "Type": "bond"
+    },
+    {
+        "ISIN": "XS1555330999",
+        "Industry": "banks",
+        "ClosePrice": 101.685,
+        "Currency": "NOK",
+        "LastPrice": 101.635,
+        "LegalName": "EUROPEAN INVESTMENT BANK 1.5 26/01/2024",
+        "Type": "bond"
+    },
+    {
+        "ISIN": "XS2100001192",
+        "Industry": "banks",
+        "ClosePrice": 102.42,
+        "Currency": "NOK",
+        "LastPrice": 102.39,
+        "LegalName": "EUROPEAN INVESTMENT BANK 1.75 13/03/2025",
+        "Type": "bond"
+    },
+    {
+        "ISIN": "LU1681048127",
+        "ClosePrice": 199.88,
+        "Currency": "EUR",
+        "LegalName": "Amundi Index Solutions - Amundi S&P 500 Buyback ETF-C EUR",
+        "Type": "etf"
+    },
+    {
+        "ISIN": "LU1681048804",
+        "ClosePrice": 64.364,
+        "Currency": "EUR",
+        "LegalName": "Amundi Index Solutions - Amundi S&P 500 UCITS ETF C EUR",
+        "Type": "etf"
+    },
+    {
+        "ISIN": "LU1681040223",
+        "ClosePrice": 97.3867,
+        "Currency": "EUR",
+        "LegalName": "Amundi Index Solutions - Amundi STOXX Europe 600 ETF-C EUR",
+        "Type": "etf"
+    },
+    {
+        "ISIN": "US00214Q7088",
+        "ClosePrice": 50.2,
+        "Currency": "USD",
+        "LegalName": "ARK Fintech Innovation ETF",
+        "Type": "etf"
+    },
+    {
+        "ISIN": "US00214Q1040",
+        "ClosePrice": 113.29,
+        "Currency": "USD",
+        "LegalName": "ARK Innovation ETF",
+        "Type": "etf"
+    },
+    {
+        "ISIN": "US00214Q4010",
+        "ClosePrice": 141.31,
+        "Currency": "USD",
+        "LegalName": "ARK Next Generation Internet ETF",
+        "Type": "etf"
+    },
+    {
+        "ISIN": "FR0012739431",
+        "ClosePrice": 11.054,
+        "Currency": "EUR",
+        "LegalName": "BNP Paribas Easy Euro Stoxx 50 UCITS ETF EUR C",
+        "Type": "etf"
+    },
+    {
+        "ISIN": "LU1291091228",
+        "ClosePrice": 10.14,
+        "Currency": "EUR",
+        "LegalName": "BNP Paribas Easy FTSE EPRA/NAREIT Developed Europe UCITS ETF QD EUR",
+        "Type": "etf"
+    },
+    {
+        "ISIN": "LU0192223062",
+        "ClosePrice": 9.449,
+        "Currency": "EUR",
+        "LegalName": "BNP Paribas Easy FTSE EPRA/NAREIT Eurozone Capped UCITS ETF QD Dis",
+        "Type": "etf"
+    },
+    {
+        "ISIN": "LU0192223062",
+        "ClosePrice": 9.449,
+        "Currency": "EUR",
+        "LegalName": "BNP Paribas Easy FTSE EPRA/NAREIT Eurozone Capped UCITS ETF QD Dis",
+        "Type": "etf"
+    },
+    {
+        "ISIN": "LU1279613365",
+        "Currency": "EUR",
+        "LegalName": "BlackRock Global Funds - Asian Dragon Fund A2 EUR Hedged",
+        "Type": "mutualFund"
+    },
+    {
+        "ISIN": "LU0147401631",
+        "Currency": "EUR",
+        "LegalName": "BlackRock Global Funds - Asian Dragon Fund E2",
+        "Type": "mutualFund"
+    },
+    {
+        "ISIN": "LU0821914370",
+        "Currency": "USD",
+        "LegalName": "BlackRock Global Funds - Asian Growth Leaders Fund A2 USD",
+        "Type": "mutualFund"
+    },
+    {
+        "ISIN": "LU0359201612",
+        "Currency": "USD",
+        "LegalName": "BlackRock Global Funds - China Fund A2",
+        "Type": "mutualFund"
+    },
+    {
+        "ISIN": "LU0224105477",
+        "Currency": "EUR",
+        "LegalName": "BlackRock Global Funds - Continental European Flexible A2",
+        "Type": "mutualFund"
+    },
+    {
+        "ISIN": "LU0224105477",
+        "Currency": "EUR",
+        "LegalName": "BlackRock Global Funds - Continental European Flexible A2",
+        "Type": "mutualFund"
+    },
+    {
+        "ISIN": "LU0628613803",
+        "Currency": "EUR",
+        "LegalName": "BlackRock Global Funds - Continental European Flexible Fund A4 EUR",
+        "Type": "mutualFund"
+    },
+    {
+        "ISIN": "LU0071969892",
+        "Currency": "GBP",
+        "LegalName": "BlackRock Global Funds - Continental European Flexible Fund A4 GBP",
+        "Type": "mutualFund"
+    },
+    {
+        "ISIN": "LU1564329032",
+        "Currency": "USD",
+        "LegalName": "BlackRock Global Funds - Dynamic High Income Fund A2 USD",
+        "Type": "mutualFund"
+    },
+    {
+        "ISIN": "LU1564329545",
+        "Currency": "AUD",
+        "LegalName": "BlackRock Global Funds - Dynamic High Income Fund A8 AUD Hedged",
+        "Type": "mutualFund"
+    }
+]
